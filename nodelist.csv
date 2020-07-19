@@ -1,0 +1,78 @@
+id,label,type,sex,age,party,representation,position,state
+platzeck,Matthias Platzeck,0,2,4,3,1,1,1
+pofalla,Ronald Pofalla,0,2,4,1,1,1,2
+praetorius,Barbara Praetorius,0,1,3,na,4,1,3
+tillich,Stanislaw Tillich,0,2,3,1,1,1,4
+hassfeldt,Gerda Hassfeldt,0,1,4,2,1,2,5
+kampeter,Steffen Kampeter,0,2,3,1,2,2,2
+kempf,Dieter Kempf,0,2,4,na,2,2,5
+kapferer,Stefan Kapferer,0,2,3,5,2,2,6
+nemat,Claudia Nemat,0,1,3,na,2,2,2
+reich,Katherina Reich,0,1,2,1,2,2,1
+roestel,Gunda Röstel,0,1,3,4,2,2,4
+schweitzer,Eric Schweitzer,0,2,3,na,2,2,3
+grothus,Antje Grothus,0,1,3,na,5,2,2
+wodtke,Hannelore Wodtke,0,1,na,1,5,2,1
+herntier,Christine Herntier,0,1,4,6,5,2,1
+kreuzberg,Michael Kreuzberg,0,2,4,1,5,2,2
+priggen,Reiner Priggen,0,2,4,4,5,2,2
+vasiliadis,Michael Vasiliadis,0,2,3,3,3,2,2
+scheidt,Andreas Scheidt,0,2,3,3,3,2,2
+koerzell,Stefan Körzell,0,2,3,3,3,2,7
+kaiser,Martin Kaiser,0,2,3,na,4,2,na
+weiger,Hubert Weiger,0,2,5,na,4,2,5
+niebert,Kai Niebert,0,2,1,na,4,2,8
+allmendinger,Jutta Allmendinger,0,1,4,na,6,2,na
+schoenefeld,Christiane Schönefeld,0,1,4,na,6,2,2
+matthes,Felix Matthes,0,2,3,na,6,2,3
+schellnhuber,Hans Joachim Schellnhuber,0,2,4,na,6,2,5
+niebuhr,Annekathrin Niebuhr,0,1,3,na,6,2,na
+wehrsporn,Ralf Wehrsporn,0,2,3,na,6,2,9
+laemmel,Andreas Lämmel,0,2,3,1,1,3,4
+lenz,Andreas Lenz,0,2,1,2,1,3,5
+miersch,Matthias Miersch,0,2,2,3,1,3,8
+spd,Sozialdemokratische Partei Deutschlands,1,na,na,na,na,na,na
+db,Deutsche Bahn,1,na,na,na,na,na,na
+cdu,Christlich Demokratische Union Deutschlands,1,na,na,na,na,na,na
+htwberlin,Hochschule für Technik und Wirtschaft Berlin,1,na,na,na,na,na,na
+agora,Agora Energiewende,1,na,na,na,na,na,na
+csu,Christlich-Soziale Union,1,na,na,na,na,na,na
+drk,Deutsches Rotes Kreuz,1,na,na,na,na,na,na
+bda,Bundesvereinigung der Deutschen Arbeitgeberverbände,1,na,na,na,na,na,na
+bdew,Bundesverband der Energie- und Wasserwirtschaft,1,na,na,na,na,na,na
+fdp,Freie Demokratische Partei,1,na,na,na,na,na,na
+bdi,Bundesverband der Deutschen Industrie,1,na,na,na,na,na,na
+telekom,Deutsche Telekom,1,na,na,na,na,na,na
+mckinsey,McKinsey & Company,1,na,na,na,na,na,na
+vku,Verband kommunaler Unternehmen,1,na,na,na,na,na,na
+enbw,EnBW Energie Baden-Württemberg,1,na,na,na,na,na,na
+gruene,Bündnis 90/Die Grünen,1,na,na,na,na,na,na
+sedd,Stadtentwässerung Dresden,1,na,na,na,na,na,na
+dihk,Deutscher Industrie- und Handelskammertag,1,na,na,na,na,na,na
+alba,Alba Group,1,na,na,na,na,na,na
+bfb,Buirer für Buir,1,na,na,na,na,na,na
+bbg,Netzwerk Bergbaugeschädigter e.V.,1,na,na,na,na,na,na
+gzw,Grüne Zukunft Welzow,1,na,na,na,na,na,na
+st,Spremberger Tuche GmbH,1,na,na,na,na,na,na
+leenrw,Landesverband Erneuerbare Energien NRW e.V.,1,na,na,na,na,na,na
+igbce,"Industriegewerkschaft Bergbau, Chemie",1,na,na,na,na,na,na
+verdi,Vereinte Dienstleistungsgewerkschaft,1,na,na,na,na,na,na
+eon,E.ON SE,1,na,na,na,na,na,na
+dgb,Deutscher Gewerkschaftsbund,1,na,na,na,na,na,na
+greenpeace,Greenpeace,1,na,na,na,na,na,na
+bund,Bund für Umwelt und Naturschutz Deutschland,1,na,na,na,na,na,na
+dnr,Deutscher Naturschutzring,1,na,na,na,na,na,na
+nfd,NaturFreunde Deutschlands,1,na,na,na,na,na,na
+unizuerich,Universität Zürich,1,na,na,na,na,na,na
+wzb,Wissenschaftszentrum Berlin für Sozialforschung,1,na,na,na,na,na,na
+dgs,Deutsche Gesellschaft für Soziologie,1,na,na,na,na,na,na
+ba,Bundesagentur für Arbeit,1,na,na,na,na,na,na
+oekoinstitut,Öko-Institut,1,na,na,na,na,na,na
+ipcc,Intergovernmental Panel on Climate Change,1,na,na,na,na,na,na
+wbgu,Wissenschaftlicher Beirat der Bundesregierung Globale Umweltveränderungen,1,na,na,na,na,na,na
+src,Stockholm Resilience Centre,1,na,na,na,na,na,na
+pik,Potsdam-Institut für Klimafolgenforschung,1,na,na,na,na,na,na
+unipotsdam,Universität Potsdam,1,na,na,na,na,na,na
+unikiel,Christian-Albrechts-Universität zu Kiel,1,na,na,na,na,na,na
+fraunhofer,Fraunhofer-Gesellschaft,1,na,na,na,na,na,na
+unihalle,Universität Halle (Saale),1,na,na,na,na,na,na
